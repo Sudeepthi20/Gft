@@ -1,0 +1,4 @@
+com\example\springbootdatamongodb\controller\TutorialController.class
+com\example\springbootdatamongodb\repository\TutorialRepository.class
+com\example\springbootdatamongodb\SpringBootDataMongodbApplication.class
+com\example\springbootdatamongodb\model\Tutorial.class
